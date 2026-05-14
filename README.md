@@ -1,3 +1,7 @@
+### This addon is no longer supported. All functionality has been moved to [TS1 Blender IO](https://github.com/mixsims/ts1-blender-io).
+
+---
+
 TSO Blender IO is an add-on for [Blender](https://www.blender.org/) which allows you to import and export the 3D file formats from The Sims Online.
 
 Blender 4.1.1, 4.2 and 4.2.1 are supported.
